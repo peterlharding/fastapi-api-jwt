@@ -1,0 +1,10 @@
+PyJwt
+python-decouple
+requests
+httpx
+pydantic
+pydantic[email]
+pydantic[typing_extensions]
+pydantic[dotenv]
+fastapi
+uvicorn
